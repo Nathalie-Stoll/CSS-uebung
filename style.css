@@ -1,0 +1,25 @@
+* {
+    background-color:black;
+    color:white;
+    content: center;
+}
+
+img {
+    width:100%;
+    height: auto;
+    border-width: 5px;
+    border-color:white;
+    border-style: solid;
+    content: center;
+    
+}
+
+div{
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    width:50%;
+    margin-left:25%;
+    margin-top:15%;
+    
+}
